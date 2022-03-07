@@ -15,7 +15,7 @@ body:
       label: What needs to be done?
       description: Task description
       placeholder: Write it down!
-      value: "A bug happened!"
+      value: "- [ ] do this"
     validations:
       required: true
   - type: input
